@@ -2,6 +2,7 @@
 - [[Next.js] create-next-app 환경에서 next.js, typescript, redux 세팅하기 - jayprogram](https://jayprogram.tistory.com/92)
 
 # Series
+- [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
 - [Learning React(Book review) - dong-life](https://dong-life.tistory.com/100?category=1027825)
 
 # Part
