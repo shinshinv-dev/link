@@ -8,3 +8,5 @@
 > [Kotlin (꿀)Tips - jessyt](https://jessyt.tistory.com/175) 
 
 > [[Kotlin] 코틀린 타입 시스템 - jaeyeong951](https://jaeyeong951.medium.com/kotlin-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-ebfb7bdbe746)
+
+> [veluxer62](https://veluxer62.github.io/retrospective/october-dev-log/)
