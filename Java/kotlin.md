@@ -12,3 +12,5 @@
 - [veluxer62](https://veluxer62.github.io/retrospective/october-dev-log/)
 
 - [Querydls 설정 - chana](https://chana.tistory.com/entry/Spring-boot-kotlin-dsl-kotlin-Querydsl-%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95?category=1019168)
+- [JPA Entity - chana](https://chana.tistory.com/entry/spring-boot-kotlin-kotlin%EC%9C%BC%EB%A1%9C-JPA-entity-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+- [Kotlin + JPA 사용시 Entity 정의 - effectivesquid](https://effectivesquid.tistory.com/entry/Kotlin-JPA-%EC%82%AC%EC%9A%A9%EC%8B%9C-Entity-%EC%A0%95%EC%9D%98)
