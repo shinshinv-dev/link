@@ -5,6 +5,7 @@
 
 # Part
 - [mapstruct.org](https://mapstruct.org/documentation/stable/reference/html/)
+- [Custom Mapper with MapStruct - baeldung](https://www.baeldung.com/mapstruct-custom-mapper)
 - [MapStruct 라이브러리를 이용해 DTO <-> Entity 변환 하기](https://unluckyjung.github.io//dev/2021/11/20/Dto-Entity-Mapper/)
 # Book review
 - [스프링 핵심 원리(김영한) - baek-kim-dev](https://baek-kim-dev.site/263?category=903513)
