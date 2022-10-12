@@ -7,3 +7,4 @@
 - [Git에서 원하는 커밋만 제거하기 (feat. SourceTree)](https://jojoldu.tistory.com/613)
 - [conflict 어디까지 알고 있니? - pjt3591oo](https://blog.naver.com/pjt3591oo/222573686917)
 - [git merge conflict가 발생하면 어떻게 하고 계시나요?](https://blog.aaronroh.org/142)
+- [[git] branch conflict 해결하기](https://soobaaaam.tistory.com/25)
