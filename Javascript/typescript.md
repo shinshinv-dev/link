@@ -3,3 +3,4 @@
 
 # Part
 - [Json 파일 읽어와서 type 으로 변환하기 - devroach](https://devroach.tistory.com/68)
+- [typescript - .tsconfig.json](https://serpiko.tistory.com/866)
