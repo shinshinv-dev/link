@@ -9,3 +9,4 @@
 - [JAP 지연로딩 - yeon-kr](https://yeon-kr.tistory.com/190)
 - [spring-boot, jpa, h2 환경에서 select for update (lock) 사용 방법 정리 - insanelysimple](https://insanelysimple.tistory.com/340)
 - [[JPA] N+1 문제는 낯설어서 - skyepodium](https://velog.io/@skyepodium/JPA-N1-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EB%82%AF%EC%84%A4%EC%96%B4%EC%84%9C)
+- [JPA cascade](https://yeon-kr.tistory.com/196)
