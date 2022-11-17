@@ -6,3 +6,4 @@
 # Part
 - [[Web] 스로틀링과 디바운싱 - shitaikoto(검색처리)](https://velog.io/@shitaikoto/Web-Throttling-Debouncing)
 - [오픈소스 훔쳐보기 - kyj2471](https://velog.io/@kyj2471/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%9B%94%EC%B3%90%EB%B3%B4%EA%B8%B0)
+- [[자바스크립트] 점 3개 ... : Rest파라미터, 스프레드 문법, 객체 스프레드 프로퍼티](https://curryyou.tistory.com/236)
