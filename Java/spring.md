@@ -3,6 +3,7 @@
 - [insanelysimple](https://insanelysimple.tistory.com/category/Spring)
 - [kim-jong-hyun](https://kim-jong-hyun.tistory.com/category/Spring?page=2)
 - [codingdog](https://codingdog.tistory.com/category/spring)
+- [jaime-note](https://jaime-note.tistory.com/category/SpringBoot/Web%20Application%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 # Part
 - [Exception을 활용하여 클린코드 작성하기](https://www.4te.co.kr/936)
