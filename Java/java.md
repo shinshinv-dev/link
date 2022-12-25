@@ -10,6 +10,9 @@
 - [Java List Stream Optional로 null 방지하기](https://www.hides.kr/m/1098)
 - [Optional orElse vs orElseGet](https://unluckyjung.github.io//java/2022/03/09/java-optional-orElse/)
 
+# Exception
+- [@ExceptionHandler, @ControllerAdvice](https://gngsn.tistory.com/151)
+
 # Book review
 - [스프링 핵심 원리(김영한) - baek-kim-dev](https://baek-kim-dev.site/263?category=903513)
 - [Effective Java - frogand](https://frogand.tistory.com/category/dev%20book/Effective%20Java?page=6)
