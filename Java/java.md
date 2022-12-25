@@ -8,6 +8,7 @@
 - [Custom Mapper with MapStruct - baeldung](https://www.baeldung.com/mapstruct-custom-mapper)
 - [MapStruct 라이브러리를 이용해 DTO <-> Entity 변환 하기](https://unluckyjung.github.io//dev/2021/11/20/Dto-Entity-Mapper/)
 - [Java List Stream Optional로 null 방지하기](https://www.hides.kr/m/1098)
+- [Optional orElse vs orElseGet](https://unluckyjung.github.io//java/2022/03/09/java-optional-orElse/)
 
 # Book review
 - [스프링 핵심 원리(김영한) - baek-kim-dev](https://baek-kim-dev.site/263?category=903513)
