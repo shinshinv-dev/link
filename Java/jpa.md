@@ -12,3 +12,5 @@
 - [JPA cascade](https://yeon-kr.tistory.com/196)
 - [[Spring Data JPA Tutorial] 10. LazyInitializationException 해결하기 2. @OneToMany](https://blog.jiniworld.me/152)
 
+# Config
+- [[Spring JPA] Multiple Databases 다중 DB 연결하기](https://frogand.tistory.com/132)
