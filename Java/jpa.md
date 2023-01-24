@@ -14,3 +14,4 @@
 
 # Config
 - [[Spring JPA] Multiple Databases 다중 DB 연결하기](https://frogand.tistory.com/132)
+- [Spring Boot SQL 설정(hibernate, logging)](https://zzang9ha.tistory.com/399)
