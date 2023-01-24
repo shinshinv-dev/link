@@ -9,3 +9,4 @@
 - [React의 모범 사례(폴더구조)](https://kyuhyuk.kr/article/react/2021/10/04/React-Best-Practice) 
 - [2021년 React 최고의 라이브러리 Top 17](https://mmsesang.tistory.com/entry/2021%EB%85%84-React-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-Top-17)
 - [[React] 중첩 라우터 언제 사용하는가?](https://mygumi.tistory.com/414)
+- [React 이미지 슬라이드(infinite loop) 구현](https://velog.io/@760kry/React-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9Cinfinite-loop-%EA%B5%AC%ED%98%84)
