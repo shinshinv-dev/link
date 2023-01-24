@@ -7,3 +7,4 @@
 
 # Part
 - [Exception을 활용하여 클린코드 작성하기](https://www.4te.co.kr/936)
+- [Spring Transaction, 제대로 이해하기](https://gngsn.tistory.com/152)
