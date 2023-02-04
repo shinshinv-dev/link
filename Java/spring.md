@@ -10,3 +10,4 @@
 - [Spring Transaction, 제대로 이해하기 - gngsn](https://gngsn.tistory.com/152)
 - [[Spring] 설정 값 분리의 필요성과 @Value의 사용법 및 동작 과정 - frogand](https://frogand.tistory.com/136)
 - [CommandLineRunner를 이용해 스프링 초기 구동시 특정코드 실행하기](https://unluckyjung.github.io//spring/2022/03/16/Spring-Load-RunCode/)
+- [Spring WebClient, 어렵지 않게 사용하기](https://gngsn.tistory.com/154)
