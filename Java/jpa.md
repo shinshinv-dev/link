@@ -11,6 +11,7 @@
 - [[JPA] N+1 문제는 낯설어서 - skyepodium](https://velog.io/@skyepodium/JPA-N1-%EB%AC%B8%EC%A0%9C%EB%8A%94-%EB%82%AF%EC%84%A4%EC%96%B4%EC%84%9C)
 - [JPA cascade](https://yeon-kr.tistory.com/196)
 - [[Spring Data JPA Tutorial] 10. LazyInitializationException 해결하기 2. @OneToMany](https://blog.jiniworld.me/152)
+- [[Spring JPA] JPQL - FETCH JOIN 페치 조인 - frogand](https://frogand.tistory.com/140)
 
 # Config
 - [[Spring JPA] Multiple Databases 다중 DB 연결하기](https://frogand.tistory.com/132)
