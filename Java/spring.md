@@ -9,3 +9,4 @@
 - [Exception을 활용하여 클린코드 작성하기](https://www.4te.co.kr/936)
 - [Spring Transaction, 제대로 이해하기 - gngsn](https://gngsn.tistory.com/152)
 - [[Spring] 설정 값 분리의 필요성과 @Value의 사용법 및 동작 과정 - frogand](https://frogand.tistory.com/136)
+- [CommandLineRunner를 이용해 스프링 초기 구동시 특정코드 실행하기](https://unluckyjung.github.io//spring/2022/03/16/Spring-Load-RunCode/)
