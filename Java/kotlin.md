@@ -17,3 +17,7 @@
 - [Kotlin + JPA 사용시 Entity 정의 - effectivesquid](https://effectivesquid.tistory.com/entry/Kotlin-JPA-%EC%82%AC%EC%9A%A9%EC%8B%9C-Entity-%EC%A0%95%EC%9D%98)
 - [[Kotlin 세미나] 실패/예외 대응 방식](https://hamait.tistory.com/1146)
 - [테스트 코드 쉽게 작성하기 ( KotlinFixture, MockK,...) - jessyt](https://jessyt.tistory.com/172)
+
+# Masking
+- [kotlin 마스킹](https://alkhwa-113.tistory.com/entry/kotlin-%EB%A7%88%EC%8A%A4%ED%82%B9)
+- [어노테이션 기반으로 개인 정보 마스킹처리하기](https://rutesun.github.io/development/annotation-driven-masking/)
