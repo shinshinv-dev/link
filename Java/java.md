@@ -13,6 +13,9 @@
 # Exception
 - [@ExceptionHandler, @ControllerAdvice](https://gngsn.tistory.com/151)
 
+# Masking
+- [Masking Name with Regex, in java](https://gngsn.tistory.com/171)
+
 # Book review
 - [스프링 핵심 원리(김영한) - baek-kim-dev](https://baek-kim-dev.site/263?category=903513)
 - [Effective Java - frogand](https://frogand.tistory.com/category/dev%20book/Effective%20Java?page=6)
