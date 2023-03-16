@@ -16,3 +16,4 @@
 # Config
 - [[Spring JPA] Multiple Databases 다중 DB 연결하기](https://frogand.tistory.com/132)
 - [Spring Boot SQL 설정(hibernate, logging)](https://zzang9ha.tistory.com/399)
+- [[JPA] SpringBoot JPA 쿼리 로그 설정하기](https://haenny.tistory.com/379#recentComments)
