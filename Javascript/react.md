@@ -1,4 +1,5 @@
 # Setting
+- [https://ko.reactjs.org/](https://ko.reactjs.org/)
 - [[Next.js] create-next-app 환경에서 next.js, typescript, redux 세팅하기 - jayprogram](https://jayprogram.tistory.com/92)
 - [리액트 컴포넌트 NPM 배포하기 (with TypeScript)](https://velog.io/@junghyeonsu/NPM-%EB%B0%B0%ED%8F%AC-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EC%95%84%EC%9A%94-with-%ED%85%8C%EC%98%A4-%EA%B5%AC%EA%B8%80-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-4%EA%B8%B0)
 # Series
