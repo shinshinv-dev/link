@@ -19,4 +19,5 @@
 
 # Multi DB
 - https://www.baeldung.com/mongodb-multiple-databases-spring-data
+  > https://github.com/eugenp/tutorials/tree/master/persistence-modules/spring-boot-persistence-mongodb-2
 - https://hasangalakdinu.medium.com/how-to-connect-multiple-mongo-db-databases-with-spring-boot-239cb464a114
