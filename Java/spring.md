@@ -16,3 +16,7 @@
 - [Spring Web on Reactive Stack WebClient 공식문서 번역](https://godekdls.github.io/Reactive%20Spring/webclient/)
 - [Spring WebClient, 어렵지 않게 사용하기](https://gngsn.tistory.com/154)
 - [번역] 스프링 웹플럭스 레퍼런스 (Web on Reactive Stack)](https://parkcheolu.tistory.com/134)
+
+# Multi DB
+- https://www.baeldung.com/mongodb-multiple-databases-spring-data
+- https://hasangalakdinu.medium.com/how-to-connect-multiple-mongo-db-databases-with-spring-boot-239cb464a114
