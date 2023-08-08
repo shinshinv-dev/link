@@ -21,3 +21,4 @@
 - https://www.baeldung.com/mongodb-multiple-databases-spring-data
   > https://github.com/eugenp/tutorials/tree/master/persistence-modules/spring-boot-persistence-mongodb-2
 - https://hasangalakdinu.medium.com/how-to-connect-multiple-mongo-db-databases-with-spring-boot-239cb464a114
+- [Spring Data MongoDB를 사용하여 여러 데이터베이스에 연결](https://recordsoflife.tistory.com/1224)
