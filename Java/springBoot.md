@@ -5,3 +5,6 @@
 - [spring boot requestbody valid custom message - codingdog](https://codingdog.tistory.com/entry/spring-boot-valid-%EC%8B%A4%ED%8C%A8%ED%96%88%EC%9D%84-%EB%95%8C-custom-message%EB%A5%BC-%EB%96%A8%EA%B6%88-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 - [외부 API 연동 테스트 코드 @RestClientTest - cobbybb](https://cobbybb.tistory.com/24)
 - [Spring Boot 캐시 만료시간 설정을 위한 Redis Cache AOP 작성](https://jgrammer.tistory.com/entry/Spring-Boot-%EB%A7%8C%EB%A3%8C%EC%8B%9C%EA%B0%84-%EC%84%A4%EC%A0%95%EC%9D%84-%EC%9C%84%ED%95%9C-Redis-Cache-AOP-%EC%9E%91%EC%84%B1)
+
+# Kafka
+- [Kafka 구성 및 SpringBoot 연동](https://happy-jjang-a.tistory.com/201)
