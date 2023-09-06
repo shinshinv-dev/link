@@ -9,3 +9,4 @@
 # Kafka
 - [Spring for Apache Kafka](https://spring.io/projects/spring-kafka#samples)
 - [Kafka 구성 및 SpringBoot 연동](https://happy-jjang-a.tistory.com/201)
+- [Spring boot에서 kafka 사용시 application.yaml 설정](https://blog.voidmainvoid.net/169)
