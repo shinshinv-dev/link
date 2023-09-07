@@ -4,10 +4,6 @@
 
 
 # Part
-- [mapstruct.org](https://mapstruct.org/documentation/stable/reference/html/)
-- [Custom Mapper with MapStruct - baeldung](https://www.baeldung.com/mapstruct-custom-mapper)
-- [MapStruct 라이브러리를 이용해 DTO <-> Entity 변환 하기](https://unluckyjung.github.io//dev/2021/11/20/Dto-Entity-Mapper/)
-- [MapStruct 사용하기 고급](https://www.skyer9.pe.kr/wordpress/?p=1603)
 - [Java List Stream Optional로 null 방지하기](https://www.hides.kr/m/1098)
 - [Optional orElse vs orElseGet](https://unluckyjung.github.io//java/2022/03/09/java-optional-orElse/)
 - [엑셀 다운로드 암호화](https://devvkkid.tistory.com/292)
