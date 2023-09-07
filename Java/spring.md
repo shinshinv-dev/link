@@ -25,3 +25,9 @@
 
 # Annotation
 - [@ConditionalOnProperty Annotation](https://www.baeldung.com/spring-conditionalonproperty)
+
+# Mapstruct
+- [mapstruct.org](https://mapstruct.org/documentation/stable/reference/html/)
+- [Custom Mapper with MapStruct - baeldung](https://www.baeldung.com/mapstruct-custom-mapper)
+- [MapStruct 라이브러리를 이용해 DTO <-> Entity 변환 하기](https://unluckyjung.github.io//dev/2021/11/20/Dto-Entity-Mapper/)
+- [MapStruct 사용하기 고급](https://www.skyer9.pe.kr/wordpress/?p=1603)
