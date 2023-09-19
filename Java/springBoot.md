@@ -11,3 +11,4 @@
 - [Kafka 구성 및 SpringBoot 연동](https://happy-jjang-a.tistory.com/201)
 - [Spring boot에서 kafka 사용시 application.yaml 설정](https://blog.voidmainvoid.net/169)
 - [Message Compression in Apache Kafka using Spring Boot](https://www.geeksforgeeks.org/message-compression-in-apache-kafka-using-spring-boot/)
+- [Kafka 기본 개념과 구축 및 스프링 부트와 연동(1)](https://velog.io/@xogml951/Kafka-%EA%B0%9C%EB%85%90%EA%B3%BC-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85)
