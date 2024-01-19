@@ -7,5 +7,6 @@
 # Part
 - [자바스크립트 코드를 더 깔끔하고 보기 좋게 작성하는 팁](https://gingerkang.tistory.com/126)
 - [[Web] 스로틀링과 디바운싱 - shitaikoto(검색처리)](https://velog.io/@shitaikoto/Web-Throttling-Debouncing)
+- [api 와장창 호출하지 않는 법 (Feat. 디바운스)](https://velog.io/@greencloud/api-%EC%99%80%EC%9E%A5%EC%B0%BD-%ED%98%B8%EC%B6%9C%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B2%95-Feat.-%EB%94%94%EB%B0%94%EC%9A%B4%EC%8A%A4)
 - [오픈소스 훔쳐보기 - kyj2471](https://velog.io/@kyj2471/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%9B%94%EC%B3%90%EB%B3%B4%EA%B8%B0)
 - [[자바스크립트] 점 3개 ... : Rest파라미터, 스프레드 문법, 객체 스프레드 프로퍼티](https://curryyou.tistory.com/236)
