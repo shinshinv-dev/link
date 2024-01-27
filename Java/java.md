@@ -7,7 +7,7 @@
 - [Java List Stream Optional로 null 방지하기](https://www.hides.kr/m/1098)
 - [Optional orElse vs orElseGet](https://unluckyjung.github.io//java/2022/03/09/java-optional-orElse/)
 - [엑셀 다운로드 암호화](https://devvkkid.tistory.com/292)
-- [[Practical-Java] 5. Stream](https://linked2ev.github.io/java/2024/01/21/Practical-Java-5.-Stream/)
+- [Practical-JavaStream](https://linked2ev.github.io/java/2024/01/21/Practical-Java-5.-Stream/)
 # Exception
 - [@ExceptionHandler, @ControllerAdvice](https://gngsn.tistory.com/151)
 
