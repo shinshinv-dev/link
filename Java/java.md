@@ -1,7 +1,7 @@
 # Series
 - [백기선님의 자바 라이브 스터디 - jessyt](https://jessyt.tistory.com/65?category=941875)
 - [jinseongsoft](https://jinseongsoft.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/JAVA)
-
+- [composite.log](https://velog.io/@composite/posts?tag=Java)
 
 # Part
 - [Java List Stream Optional로 null 방지하기](https://www.hides.kr/m/1098)
