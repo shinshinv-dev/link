@@ -11,3 +11,4 @@
 # PWA
 - [첫 번째 프로그레시브 웹 앱](https://developers.google.com/codelabs/your-first-pwapp?hl=ko#4)
 - [Next.js 프로젝트에 PWA 기술 적용하기](https://gxxrxn.github.io/nextjs-pwa/)
+- [PWA가 뭔가요? (+모바일 앱의 종류) - Youtube](https://www.youtube.com/watch?v=NMdnzvPsGu8)
