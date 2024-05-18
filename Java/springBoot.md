@@ -7,6 +7,7 @@
 - [외부 API 연동 테스트 코드 @RestClientTest - cobbybb](https://cobbybb.tistory.com/24)
 - [Spring Boot 캐시 만료시간 설정을 위한 Redis Cache AOP 작성](https://jgrammer.tistory.com/entry/Spring-Boot-%EB%A7%8C%EB%A3%8C%EC%8B%9C%EA%B0%84-%EC%84%A4%EC%A0%95%EC%9D%84-%EC%9C%84%ED%95%9C-Redis-Cache-AOP-%EC%9E%91%EC%84%B1)
 - [Srpingboot Version 변경내역](https://lob-dev.tistory.com/85)
+- =[[Spring Boot] Scheduler 사용하기 (일정 주기로 실행하는 스프링 스케쥴러)](https://frogand.tistory.com/158)
 
 # Kafka
 - [Spring for Apache Kafka](https://spring.io/projects/spring-kafka#samples)
