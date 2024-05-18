@@ -9,3 +9,4 @@
 - [git merge conflict가 발생하면 어떻게 하고 계시나요?](https://blog.aaronroh.org/142)
 - [[git] branch conflict 해결하기](https://soobaaaam.tistory.com/25)
 - [현재 변경사항을 다른 브랜치에 커밋하는 방법](https://frogand.tistory.com/133)
+- [[Git] Rebase는 왜 쓰나](https://studyandwrite.tistory.com/503)
