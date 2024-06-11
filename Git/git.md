@@ -10,3 +10,4 @@
 - [[git] branch conflict 해결하기](https://soobaaaam.tistory.com/25)
 - [현재 변경사항을 다른 브랜치에 커밋하는 방법](https://frogand.tistory.com/133)
 - [[Git] Rebase는 왜 쓰나](https://studyandwrite.tistory.com/503)
+- [[git] 실수로 삭제한 브랜치 복구하기 (reflog)](https://zinee-world.tistory.com/643)
