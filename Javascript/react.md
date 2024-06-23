@@ -20,3 +20,6 @@
 
 # Hook
 - [useContext() with Typescript](https://dev.to/madv/usecontext-with-typescript-23ln)
+
+# React-query
+- [React Query와 전역 상태 관리](https://hong-jh.tistory.com/entry/React-Query%EC%99%80-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
